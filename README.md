@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @maikxmh
-- 👀 I’m interested in it stuff
-- 🌱 I’m currently learning go
+# hello
 
 <!---
 maikxmh/maikxmh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
